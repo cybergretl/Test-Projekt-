@@ -7,6 +7,6 @@ dies ist ein test des anlegens eines repos
 * Kontakt
 * Rechte / Lizenzen
 * aktueller Projektstatus
-* Inhalt und Struktur des Repos
+* Inhalt und Struktur des Repos - Navigationsoberflächen, Aufbau der Ordner, Architektur des Codes
 * Optional: - Code of Conduct, Contribution Rules etc.
 
